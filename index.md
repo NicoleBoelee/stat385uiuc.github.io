@@ -1,10 +1,3 @@
-STAT 385 @ UIUC was recently added to the Department of Statistics curriculum and instruction in Spring 2016. 
-The course has been run three times. The material used within each running of the course was primarily developed by James Balamuta, 
-who created the course. To view the content for each class, please see one of the following course websites:
+### STAT 385: Statistical Programming Methods
 
-- [Summer 2017](http://stat385su2017.thecoatlessprofessor.com)
-   - Instructor: James Balamuta
-- Spring 2017 (Private)
-   - Instructor: Stephane Guerrier, Teaching Assistant: James Balamuta
-- [Summer 2016](http://stat385.thecoatlessprofessor.com/su2016)
-   - Instructor: James Balamuta
+The world is rapidly evolving to rely on data driven decisions. These decisions come from the work a statistician or data scientist presents in his or her reports. In order to present an analysis, the analyst needs to be able to leverage computing resources through programming to unearth patterns and models that exist within data sets. As a result, statisticians and data scientists must be savvy to programming methods that are useful to the wide variety of analysis that they will be expected to perform.
