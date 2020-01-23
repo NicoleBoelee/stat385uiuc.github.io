@@ -7,7 +7,7 @@ The world is rapidly evolving to rely on data driven decisions. These decisions 
 STAT 385 was officially added to the Department of Statistics curriculum and instruction in Spring 2016. 
 To view the content for some of the courses, please see one of the following course websites:
 
-- [Spring 2019](http://sp2019.stat385.com)
+- [Spring 2019](http://sp19.stat385.com)
 - Fall 2018
 - Summer 2018
 - Spring 2018
